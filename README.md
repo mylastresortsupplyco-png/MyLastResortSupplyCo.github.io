@@ -93,9 +93,7 @@
   <!-- About Section -->
   <div class="w3-container w3-padding-32" id="about">
     <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">About</h3>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Excepteur sint
-      occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-      laboris nisi ut aliquip ex ea commodo consequat.
+    <p>Welcome to My Last Resort! 
     </p>
   </div>
 
@@ -104,7 +102,7 @@
       <img src="/w3images/team2.jpg" alt="John" style="width:100%">
       <h3>Raul and Veronica</h3>
       <p class="w3-opacity">CEO & Founder</p>
-      <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
+      <p>Welcome to My Last Resort!</p>
       <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
     </div>
 
@@ -116,6 +114,7 @@
     <div class="w3-section">
       <p><i class="fa fa-map-marker fa-fw w3-text-white w3-xxlarge w3-margin-right"></i> Dallas, TX</p>
       <p><i class="fa fa-phone fa-fw w3-text-white w3-xxlarge w3-margin-right"></i> Phone: 469-650-9395
+      
       945-210-2357</p>
       <p><i class="fa fa-envelope fa-fw w3-text-white w3-xxlarge w3-margin-right"> </i> Email: mylastresortsupplyco@mail.com</p>
     </div><br>
