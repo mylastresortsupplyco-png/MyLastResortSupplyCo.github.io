@@ -34,14 +34,14 @@
 
   <!-- Project Section -->
   <div class="w3-container w3-padding-32" id="projects">
-    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Junk Removal</h3>
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Services</h3>
   </div>
 
   <div class="w3-row-padding">
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">Summer House</div>
-        <img src="/w3images/house5.jpg" alt="House" style="width:100%">
+        <div class="w3-display-topleft w3-black w3-padding">Junk Removal</div>
+        <img src="img_7.jpeg" alt="House" style="width:100%">
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
