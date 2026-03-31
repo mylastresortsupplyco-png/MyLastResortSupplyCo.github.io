@@ -99,7 +99,7 @@
 
   <div class="w3-row-padding w3-grayscale">
     <div class="w3-col l3 m6 w3-margin-bottom">
-      <img src="/w3images/team2.jpg" alt="John" style="width:100%">
+      <img src="IMG_7689.jpeg" alt="Me and my Wife" style="width:100%">
       <h3>Raul and Veronica</h3>
       <p class="w3-opacity">CEO & Founder</p>
       <p>Welcome to My Last Resort!</p>
@@ -115,10 +115,10 @@
       <p><i class="fa fa-map-marker fa-fw w3-text-white w3-xxlarge w3-margin-right"></i> Dallas, TX</p>
       <p><i class="fa fa-phone fa-fw w3-text-white w3-xxlarge w3-margin-right"></i> Phone: 469-650-9395
       
-      945-210-2357</p>
+               945-210-2357</p>
       <p><i class="fa fa-envelope fa-fw w3-text-white w3-xxlarge w3-margin-right"> </i> Email: mylastresortsupplyco@mail.com</p>
     </div><br>
-    <p>We want to give you our dedicated services!Send us a message:</p>
+    <p>We want to give you our dedicated services! Send us a message:</p>
 
     <form action="/action_page.php" target="_blank">
       <p><input class="w3-input w3-padding-16" type="text" placeholder="Name" required name="Name"></p>
