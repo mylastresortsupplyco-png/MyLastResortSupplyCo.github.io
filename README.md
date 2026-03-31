@@ -40,6 +40,17 @@
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
         <div class="w3-display-topleft w3-black w3-padding">Junk Removal</div>
+        <video width="400" controls>
+  <source src="mov_bbb.mp4" type="video/mp4">
+  <source src="mov_bbb.ogg" type="video/ogg">
+  Your browser does not support HTML video.
+</video>
+
+<p>
+Video courtesy of 
+<a href="https://www.bigbuckbunny.org/" target="_blank">Big Buck Bunny</a>.
+</p>
+
         <img src="/w3images/house5.jpg" alt="House" style="width:100%">
       </div>
     </div>
@@ -97,7 +108,7 @@
     </p>
   </div>
 
-  <div class="w3-row-padding w3-grayscale">
+  <div class="w3-row-padding w3-whitescale">
     <div class="w3-col l3 m6 w3-margin-bottom">
       <img src="IMG_7689.jpeg" alt="Me and my Wife" style="width:100%">
       <h3>Raul and Veronica</h3>
