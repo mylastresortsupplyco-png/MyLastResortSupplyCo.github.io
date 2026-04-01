@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <title></title>
@@ -106,7 +105,7 @@
     <hr style="width:200px" class="w3-opacity">
 
   <div class="w3-section">
-      <p><i class="fa fa-map-marker fa-fw w3-text-white w3-xxlarge w3-margin-right"></i> Dallas,TX</p>
+      <p><i class="fa fa-map-marker fa-fw w3-text-white w3-xxlarge w3-margin-right"></i> DFW</p>
       <p><i class="fa fa-phone fa-fw w3-text-white w3-xxlarge w3-margin-right"></i> Phone: (469-650-9395)
       (945-210-2357)</p>
       <p><i class="fa fa-envelope fa-fw w3-text-white w3-xxlarge w3-margin-right"> </i> Email: mylastresortsupplyco@gmail.com</p>
@@ -141,5 +140,3 @@
   <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" title="W3.CSS" target="_blank" class="w3-hover-text-green">w3.css</a></p>
 </footer>
 
-</body>
-</html>
