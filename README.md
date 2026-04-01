@@ -109,7 +109,7 @@
       <p><i class="fa fa-map-marker fa-fw w3-text-white w3-xxlarge w3-margin-right"></i> Dallas,TX</p>
       <p><i class="fa fa-phone fa-fw w3-text-white w3-xxlarge w3-margin-right"></i> Phone: (469-650-9395)
       (945-210-2357)</p>
-      <p><i class="fa fa-envelope fa-fw w3-text-white w3-xxlarge w3-margin-right"> </i> Email: mylastresortsupplyco@mail.com</p>
+      <p><i class="fa fa-envelope fa-fw w3-text-white w3-xxlarge w3-margin-right"> </i> Email: mylastresortsupplyco@gmail.com</p>
     </div><br>
     <p>We want to give you our dedicated services! Message Us!:</p>
 
